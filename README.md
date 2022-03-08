@@ -8,11 +8,7 @@
 
 + 短链站: https://url.wuuconix.link
 
-+ 随机图片API: https://conix.ml
-
-  > 请谨慎在公共场所访问
-
-+ 公共图床: http://i.conix.vaiwan.com
++ 视频分享站 https://v.conix.tk 
 
 ## GitHub Stats
 
