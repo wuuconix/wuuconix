@@ -6,9 +6,7 @@
 
 + 文件分享站: https://share.wuuconix.link
 
-+ 短链站: https://url.wuuconix.link
-
-+ 视频分享站 https://v.conix.tk 
++ 短链导航站: https://url.wuuconix.link
 
 ## GitHub Stats
 
